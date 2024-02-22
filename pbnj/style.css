@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+    border: 20px solid black;
+    width: 597px;
+    margin:auto;
+    padding: 25px 18px;
+    border-radius: 50px;
+}
+
+
+h1 {
+    color:rgb(90, 98, 145);   
+}
+
+h2 {
+    color:darkcyan;
+    text-decoration:wavy;
+}
+
+li {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
